@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #e3f2fd;
+}
+
+.wrapper{
+    width: 780px;
+    border-radius: 20px;
+    background: #141414;
+    padding: 35px 40px;
+}
+
+.wrapper header{
+    
+}
+
+.piano-keys .key{
+    list-style: none;
+    color: #a2a2a2;
+}
