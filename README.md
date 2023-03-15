@@ -27,7 +27,7 @@ Using JavaScript to build a playable piano can be a fun and challenging way to l
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
 
-- Write points here
+- Created a toggle switch for show/hide keys option using css only
 
 
 <br><br>
@@ -86,7 +86,8 @@ You can exclusively watch the video on this project from the making to deploying
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
 
-- Write points here
+- HTML
+- CSS
 
 
 <br><br>
