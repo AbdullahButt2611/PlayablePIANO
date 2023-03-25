@@ -28,6 +28,8 @@ Using JavaScript to build a playable piano can be a fun and challenging way to l
 Following are some of the new features and learning encountered while creating this amazing project:
 
 - Created a toggle switch for show/hide keys option using css only
+- Tunes are activated by using both the mouse and keys. So this can be used both by mouse and keyboard
+- Use of Audio files using JS Audio element is learnt 
 
 
 <br><br>
@@ -88,6 +90,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 - HTML
 - CSS
+- JavaScript
 
 
 <br><br>
