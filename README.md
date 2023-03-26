@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "#" width="300">
+  <img src = "icon.png" width="200">
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Category
+  Virtual Technology
 </h3>
 
 
@@ -30,6 +30,8 @@ Following are some of the new features and learning encountered while creating t
 - Created a toggle switch for show/hide keys option using css only
 - Tunes are activated by using both the mouse and keys. So this can be used both by mouse and keyboard
 - Use of Audio files using JS Audio element is learnt 
+- Handling the volumn as per the user requirement 
+- Completely Responsive
 
 
 <br><br>
@@ -74,8 +76,8 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Graphical User Interface
+![GUI for this Project](demo.png)
 
 
 <br><br>
